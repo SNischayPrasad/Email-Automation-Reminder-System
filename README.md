@@ -99,7 +99,7 @@ Email-Automation-Reminder-System/
 
 **Windows (PowerShell)**
 ```powershell
-git clone https://github.com/<your-username>/Email-Automation-Reminder-System.git
+git clone https://github.com/SNischayPrasad/Email-Automation-Reminder-System.git
 cd Email-Automation-Reminder-System
 python -m venv venv
 venv\Scripts\activate
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 **Mac / Linux**
 ```bash
-git clone https://github.com/<your-username>/Email-Automation-Reminder-System.git
+git clone https://github.com/SNischayPrasad/Email-Automation-Reminder-System.git
 cd Email-Automation-Reminder-System
 python3 -m venv venv
 source venv/bin/activate

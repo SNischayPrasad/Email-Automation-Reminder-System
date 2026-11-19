@@ -18,7 +18,7 @@ git status
 ```powershell
 git commit -m "Initial commit: email automation and reminder system"
 git branch -M main
-git remote add origin https://github.com/<your-username>/Email-Automation-Reminder-System.git
+git remote add origin https://github.com/SNischayPrasad/Email-Automation-Reminder-System.git
 git push -u origin main
 ```
 4. Later changes:
