@@ -1,0 +1,12 @@
+Subject: Following up: {event_title}
+
+Hi {first_name},
+
+I'm following up on our {event_title} from {event_date}.
+
+{extra_info}
+
+Let me know a convenient time to connect, or just reply to this email.
+
+Best regards,
+{sender_name}

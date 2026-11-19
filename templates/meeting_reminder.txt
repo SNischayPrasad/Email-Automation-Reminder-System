@@ -1,0 +1,15 @@
+Subject: Reminder: {event_title} on {event_date} at {event_time}
+
+Hi {first_name},
+
+This is a friendly reminder about your upcoming meeting.
+
+  Meeting : {event_title}
+  Date    : {event_date}
+  Time    : {event_time}
+  Where   : {extra_info}
+
+Please join a few minutes early. Reply to this email if you can't make it.
+
+Regards,
+{sender_name}

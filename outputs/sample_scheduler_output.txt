@@ -1,0 +1,122 @@
+
+=== Email Automation & Reminder System ===
+Mode: DRY-RUN (safe simulation)
+
+21:31:22 | INFO    | Scheduler started - checking every 20s. Press Ctrl+C to stop.
+
+REMINDER SCHEDULE
+------------------------------------------------------------------------------
+ID     Template              Send at           Status    Event
+------------------------------------------------------------------------------
+R001   meeting_reminder      2026-11-19 21:21  DUE       Quarterly Sales Review
+R009   follow_up             2026-11-19 21:25  DUE       Demo feedback
+R002   task_notification     2026-11-19 21:26  DUE       Submit appraisal forms
+R007   payment_reminder      2026-11-19 21:27  DUE       Invoice #INV-2042
+R005   webinar_reminder      2026-11-19 21:28  DUE       Python Automation Webinar
+R004   follow_up             2026-11-19 21:29  DUE       Vendor onboarding call
+R003   payment_reminder      2026-11-19 21:30  DUE       Invoice #INV-2041
+R006   meeting_reminder      2026-11-19 21:32  WAITING   Campaign Planning
+R008   task_notification     2026-11-19 21:33  WAITING   Renew office insurance
+R010   webinar_reminder      2026-11-19 21:34  WAITING   Git & GitHub Workshop
+R012   follow_up             2026-11-20 21:31  WAITING   Proposal discussion
+R011   payment_reminder      2026-11-21 21:31  WAITING   Invoice #INV-2043
+------------------------------------------------------------------------------
+
+21:31:22 | INFO    | Loaded 10 contacts and 12 reminders.
+21:31:22 | INFO    | 7 reminder(s) due at 2026-11-19 21:31.
+21:31:22 | INFO    | DRY-RUN mode: no real emails will be sent.
+21:31:22 | INFO    | [DRY_RUN] R001 -> aarav.sharma@example.com | Reminder: Quarterly Sales Review on 19 Nov 2026 at 11:31 PM
+21:31:22 | INFO    | [DRY_RUN] R002 -> priya.nair@example.com | Task due 20 Nov 2026: Submit appraisal forms
+21:31:22 | INFO    | [DRY_RUN] R003 -> rohan.verma@example.com | Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026
+21:31:22 | INFO    | [DRY_RUN] R004 -> sneha.iyer@example.org | Following up: Vendor onboarding call
+21:31:22 | INFO    | [DRY_RUN] R005 -> karan.mehta@example.com | Starting soon: Python Automation Webinar - 19 Nov 2026, 10:31 PM
+21:31:22 | ERROR   | [FAILED]  R007 -> vikram.singh@example | Invalid email address 'vikram.singh@example'
+21:31:22 | ERROR   | [FAILED]  R009 -> ? | Unknown contact_id 'C099'
+
+==================================================
+              RUN SUMMARY
+==================================================
+  Total processed : 7
+  Sent / Dry-run  : 5
+  Failed          : 2
+  Success rate    : 71.4%
+--------------------------------------------------
+  By template:
+    payment_reminder       2
+    follow_up              2
+    meeting_reminder       1
+    task_notification      1
+    webinar_reminder       1
+==================================================
+
+21:31:22 | INFO    | Report saved: outputs\report_20261119_213122.csv
+21:31:42 | INFO    | Loaded 10 contacts and 12 reminders.
+21:31:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:31.
+21:32:02 | INFO    | Loaded 10 contacts and 12 reminders.
+21:32:02 | INFO    | 1 reminder(s) due at 2026-11-19 21:32.
+21:32:02 | INFO    | DRY-RUN mode: no real emails will be sent.
+21:32:02 | INFO    | [DRY_RUN] R006 -> ananya.reddy@example.org | Reminder: Campaign Planning on 20 Nov 2026 at 12:31 AM
+
+==================================================
+              RUN SUMMARY
+==================================================
+  Total processed : 1
+  Sent / Dry-run  : 1
+  Failed          : 0
+  Success rate    : 100.0%
+--------------------------------------------------
+  By template:
+    meeting_reminder       1
+==================================================
+
+21:32:02 | INFO    | Report saved: outputs\report_20261119_213202.csv
+21:32:22 | INFO    | Loaded 10 contacts and 12 reminders.
+21:32:22 | INFO    | 0 reminder(s) due at 2026-11-19 21:32.
+21:32:42 | INFO    | Loaded 10 contacts and 12 reminders.
+21:32:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:32.
+21:33:02 | INFO    | Loaded 10 contacts and 12 reminders.
+21:33:02 | INFO    | 1 reminder(s) due at 2026-11-19 21:33.
+21:33:02 | INFO    | DRY-RUN mode: no real emails will be sent.
+21:33:02 | INFO    | [DRY_RUN] R008 -> meera.joshi@example.com | Task due 24 Nov 2026: Renew office insurance
+
+==================================================
+              RUN SUMMARY
+==================================================
+  Total processed : 1
+  Sent / Dry-run  : 1
+  Failed          : 0
+  Success rate    : 100.0%
+--------------------------------------------------
+  By template:
+    task_notification      1
+==================================================
+
+21:33:02 | INFO    | Report saved: outputs\report_20261119_213302.csv
+21:33:22 | INFO    | Loaded 10 contacts and 12 reminders.
+21:33:22 | INFO    | 0 reminder(s) due at 2026-11-19 21:33.
+21:33:42 | INFO    | Loaded 10 contacts and 12 reminders.
+21:33:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:33.
+21:34:02 | INFO    | Loaded 10 contacts and 12 reminders.
+21:34:02 | INFO    | 1 reminder(s) due at 2026-11-19 21:34.
+21:34:02 | INFO    | DRY-RUN mode: no real emails will be sent.
+21:34:02 | INFO    | [DRY_RUN] R010 -> arjun.kapoor@example.com | Starting soon: Git & GitHub Workshop - 20 Nov 2026, 09:31 PM
+
+==================================================
+              RUN SUMMARY
+==================================================
+  Total processed : 1
+  Sent / Dry-run  : 1
+  Failed          : 0
+  Success rate    : 100.0%
+--------------------------------------------------
+  By template:
+    webinar_reminder       1
+==================================================
+
+21:34:02 | INFO    | Report saved: outputs\report_20261119_213402.csv
+21:34:22 | INFO    | Loaded 10 contacts and 12 reminders.
+21:34:22 | INFO    | 0 reminder(s) due at 2026-11-19 21:34.
+21:34:42 | INFO    | Loaded 10 contacts and 12 reminders.
+21:34:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:34.
+21:34:58 | INFO    | Reached max run time - stopping scheduler.
+21:34:58 | INFO    | Scheduler processed 10 reminder(s) in total.

@@ -1,0 +1,11 @@
+contact_id,name,email,department,role
+C001,Aarav Sharma,aarav.sharma@example.com,Sales,Sales Executive
+C002,Priya Nair,priya.nair@example.com,HR,HR Manager
+C003,Rohan Verma,rohan.verma@example.com,Finance,Accountant
+C004,Sneha Iyer,sneha.iyer@example.org,Operations,Ops Lead
+C005,Karan Mehta,karan.mehta@example.com,Training,Trainee
+C006,Ananya Reddy,ananya.reddy@example.org,Marketing,Webinar Host
+C007,Vikram Singh,vikram.singh@example,Sales,Client
+C008,Meera Joshi,meera.joshi@example.com,Admin,Office Admin
+C009,Arjun Kapoor,arjun.kapoor@example.com,Engineering,Developer
+C010,Divya Pillai,divya.pillai@example.org,Finance,Client

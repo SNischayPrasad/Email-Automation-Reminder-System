@@ -1,0 +1,5 @@
+pandas>=2.0
+schedule>=1.2
+python-dotenv>=1.0
+# Optional dashboard:  pip install streamlit
+# streamlit>=1.30

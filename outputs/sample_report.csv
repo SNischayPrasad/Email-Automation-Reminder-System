@@ -1,0 +1,8 @@
+run_time,mode,reminder_id,contact_id,name,email,template,subject,scheduled_for,status,error
+2026-11-19 21:31:04,DRY_RUN,R001,C001,Aarav Sharma,aarav.sharma@example.com,meeting_reminder,Reminder: Quarterly Sales Review on 19 Nov 2026 at 11:31 PM,2026-11-19 21:21,DRY_RUN,
+2026-11-19 21:31:04,DRY_RUN,R002,C002,Priya Nair,priya.nair@example.com,task_notification,Task due 20 Nov 2026: Submit appraisal forms,2026-11-19 21:26,DRY_RUN,
+2026-11-19 21:31:04,DRY_RUN,R003,C003,Rohan Verma,rohan.verma@example.com,payment_reminder,Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026,2026-11-19 21:30,DRY_RUN,
+2026-11-19 21:31:04,DRY_RUN,R004,C004,Sneha Iyer,sneha.iyer@example.org,follow_up,Following up: Vendor onboarding call,2026-11-19 21:29,DRY_RUN,
+2026-11-19 21:31:04,DRY_RUN,R005,C005,Karan Mehta,karan.mehta@example.com,webinar_reminder,"Starting soon: Python Automation Webinar - 19 Nov 2026, 10:31 PM",2026-11-19 21:28,DRY_RUN,
+2026-11-19 21:31:04,DRY_RUN,R007,C007,Vikram Singh,vikram.singh@example,payment_reminder,,2026-11-19 21:27,FAILED,Invalid email address 'vikram.singh@example'
+2026-11-19 21:31:04,DRY_RUN,R009,C099,,,follow_up,,2026-11-19 21:25,FAILED,Unknown contact_id 'C099'

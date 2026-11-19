@@ -1,0 +1,22 @@
+From: Reminder Bot <noreply@example.com>
+To: rohan.verma@example.com
+Subject: Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Dear Rohan Verma,
+
+We hope you are doing well. This is a gentle reminder that the following paym=
+ent is due soon.
+
+  Reference : Invoice #INV-2041
+  Due date  : 22 Nov 2026
+  Details   : Amount due: Rs. 18,500
+
+If you have already made the payment, please ignore this message.
+For any questions, simply reply to this email.
+
+Thank you,
+Reminder Bot
+Accounts Team

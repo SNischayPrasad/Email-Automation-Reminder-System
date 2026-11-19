@@ -1,0 +1,13 @@
+reminder_id,contact_id,template,event_title,event_datetime,send_at,extra_info
+R001,C001,meeting_reminder,Quarterly Sales Review,2026-11-19 23:31,2026-11-19 21:21,Conference Room B / Google Meet
+R002,C002,task_notification,Submit appraisal forms,2026-11-20 21:31,2026-11-19 21:26,Upload to HR portal
+R003,C003,payment_reminder,Invoice #INV-2041,2026-11-22 21:31,2026-11-19 21:30,"Amount due: Rs. 18,500"
+R004,C004,follow_up,Vendor onboarding call,2026-11-18 21:31,2026-11-19 21:29,Please share the signed NDA
+R005,C005,webinar_reminder,Python Automation Webinar,2026-11-19 22:31,2026-11-19 21:28,https://example.com/webinar/python
+R006,C006,meeting_reminder,Campaign Planning,2026-11-20 00:31,2026-11-19 21:32,"Marketing Bay, 2nd floor"
+R007,C007,payment_reminder,Invoice #INV-2042,2026-11-21 21:31,2026-11-19 21:27,"Amount due: Rs. 7,200"
+R008,C008,task_notification,Renew office insurance,2026-11-24 21:31,2026-11-19 21:33,Policy expires this month
+R009,C099,follow_up,Demo feedback,2026-11-17 21:31,2026-11-19 21:25,How was the product demo?
+R010,C009,webinar_reminder,Git & GitHub Workshop,2026-11-20 21:31,2026-11-19 21:34,https://example.com/webinar/git
+R011,C010,payment_reminder,Invoice #INV-2043,2026-11-26 21:31,2026-11-21 21:31,"Amount due: Rs. 42,000"
+R012,C001,follow_up,Proposal discussion,2026-11-16 21:31,2026-11-20 21:31,Any questions on the proposal?

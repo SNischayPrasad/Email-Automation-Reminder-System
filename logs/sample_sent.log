@@ -1,0 +1,13 @@
+2026-11-19 21:31:04 | INFO    | R001 | aarav.sharma@example.com | Reminder: Quarterly Sales Review on 19 Nov 2026 at 11:31 PM | DRY_RUN
+2026-11-19 21:31:04 | INFO    | R002 | priya.nair@example.com | Task due 20 Nov 2026: Submit appraisal forms | DRY_RUN
+2026-11-19 21:31:04 | INFO    | R003 | rohan.verma@example.com | Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026 | DRY_RUN
+2026-11-19 21:31:04 | INFO    | R004 | sneha.iyer@example.org | Following up: Vendor onboarding call | DRY_RUN
+2026-11-19 21:31:04 | INFO    | R005 | karan.mehta@example.com | Starting soon: Python Automation Webinar - 19 Nov 2026, 10:31 PM | DRY_RUN
+2026-11-19 21:31:22 | INFO    | R001 | aarav.sharma@example.com | Reminder: Quarterly Sales Review on 19 Nov 2026 at 11:31 PM | DRY_RUN
+2026-11-19 21:31:22 | INFO    | R002 | priya.nair@example.com | Task due 20 Nov 2026: Submit appraisal forms | DRY_RUN
+2026-11-19 21:31:22 | INFO    | R003 | rohan.verma@example.com | Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026 | DRY_RUN
+2026-11-19 21:31:22 | INFO    | R004 | sneha.iyer@example.org | Following up: Vendor onboarding call | DRY_RUN
+2026-11-19 21:31:22 | INFO    | R005 | karan.mehta@example.com | Starting soon: Python Automation Webinar - 19 Nov 2026, 10:31 PM | DRY_RUN
+2026-11-19 21:32:02 | INFO    | R006 | ananya.reddy@example.org | Reminder: Campaign Planning on 20 Nov 2026 at 12:31 AM | DRY_RUN
+2026-11-19 21:33:02 | INFO    | R008 | meera.joshi@example.com | Task due 24 Nov 2026: Renew office insurance | DRY_RUN
+2026-11-19 21:34:02 | INFO    | R010 | arjun.kapoor@example.com | Starting soon: Git & GitHub Workshop - 20 Nov 2026, 09:31 PM | DRY_RUN

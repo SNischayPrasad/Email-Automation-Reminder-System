@@ -1,0 +1,54 @@
+2026-11-19 21:31:04 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:31:04 | INFO    | 7 reminder(s) due at 2026-11-19 21:31.
+2026-11-19 21:31:04 | INFO    | DRY-RUN mode: no real emails will be sent.
+2026-11-19 21:31:04 | INFO    | [DRY_RUN] R001 -> aarav.sharma@example.com | Reminder: Quarterly Sales Review on 19 Nov 2026 at 11:31 PM
+2026-11-19 21:31:04 | INFO    | [DRY_RUN] R002 -> priya.nair@example.com | Task due 20 Nov 2026: Submit appraisal forms
+2026-11-19 21:31:04 | INFO    | [DRY_RUN] R003 -> rohan.verma@example.com | Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026
+2026-11-19 21:31:04 | INFO    | [DRY_RUN] R004 -> sneha.iyer@example.org | Following up: Vendor onboarding call
+2026-11-19 21:31:04 | INFO    | [DRY_RUN] R005 -> karan.mehta@example.com | Starting soon: Python Automation Webinar - 19 Nov 2026, 10:31 PM
+2026-11-19 21:31:04 | ERROR   | [FAILED]  R007 -> vikram.singh@example | Invalid email address 'vikram.singh@example'
+2026-11-19 21:31:04 | ERROR   | [FAILED]  R009 -> ? | Unknown contact_id 'C099'
+2026-11-19 21:31:04 | INFO    | Report saved: outputs\report_20261119_213104.csv
+2026-11-19 21:31:22 | INFO    | Scheduler started - checking every 20s. Press Ctrl+C to stop.
+2026-11-19 21:31:22 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:31:22 | INFO    | 7 reminder(s) due at 2026-11-19 21:31.
+2026-11-19 21:31:22 | INFO    | DRY-RUN mode: no real emails will be sent.
+2026-11-19 21:31:22 | INFO    | [DRY_RUN] R001 -> aarav.sharma@example.com | Reminder: Quarterly Sales Review on 19 Nov 2026 at 11:31 PM
+2026-11-19 21:31:22 | INFO    | [DRY_RUN] R002 -> priya.nair@example.com | Task due 20 Nov 2026: Submit appraisal forms
+2026-11-19 21:31:22 | INFO    | [DRY_RUN] R003 -> rohan.verma@example.com | Payment Reminder: Invoice #INV-2041 due on 22 Nov 2026
+2026-11-19 21:31:22 | INFO    | [DRY_RUN] R004 -> sneha.iyer@example.org | Following up: Vendor onboarding call
+2026-11-19 21:31:22 | INFO    | [DRY_RUN] R005 -> karan.mehta@example.com | Starting soon: Python Automation Webinar - 19 Nov 2026, 10:31 PM
+2026-11-19 21:31:22 | ERROR   | [FAILED]  R007 -> vikram.singh@example | Invalid email address 'vikram.singh@example'
+2026-11-19 21:31:22 | ERROR   | [FAILED]  R009 -> ? | Unknown contact_id 'C099'
+2026-11-19 21:31:22 | INFO    | Report saved: outputs\report_20261119_213122.csv
+2026-11-19 21:31:42 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:31:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:31.
+2026-11-19 21:32:02 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:32:02 | INFO    | 1 reminder(s) due at 2026-11-19 21:32.
+2026-11-19 21:32:02 | INFO    | DRY-RUN mode: no real emails will be sent.
+2026-11-19 21:32:02 | INFO    | [DRY_RUN] R006 -> ananya.reddy@example.org | Reminder: Campaign Planning on 20 Nov 2026 at 12:31 AM
+2026-11-19 21:32:02 | INFO    | Report saved: outputs\report_20261119_213202.csv
+2026-11-19 21:32:22 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:32:22 | INFO    | 0 reminder(s) due at 2026-11-19 21:32.
+2026-11-19 21:32:42 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:32:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:32.
+2026-11-19 21:33:02 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:33:02 | INFO    | 1 reminder(s) due at 2026-11-19 21:33.
+2026-11-19 21:33:02 | INFO    | DRY-RUN mode: no real emails will be sent.
+2026-11-19 21:33:02 | INFO    | [DRY_RUN] R008 -> meera.joshi@example.com | Task due 24 Nov 2026: Renew office insurance
+2026-11-19 21:33:02 | INFO    | Report saved: outputs\report_20261119_213302.csv
+2026-11-19 21:33:22 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:33:22 | INFO    | 0 reminder(s) due at 2026-11-19 21:33.
+2026-11-19 21:33:42 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:33:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:33.
+2026-11-19 21:34:02 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:34:02 | INFO    | 1 reminder(s) due at 2026-11-19 21:34.
+2026-11-19 21:34:02 | INFO    | DRY-RUN mode: no real emails will be sent.
+2026-11-19 21:34:02 | INFO    | [DRY_RUN] R010 -> arjun.kapoor@example.com | Starting soon: Git & GitHub Workshop - 20 Nov 2026, 09:31 PM
+2026-11-19 21:34:02 | INFO    | Report saved: outputs\report_20261119_213402.csv
+2026-11-19 21:34:22 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:34:22 | INFO    | 0 reminder(s) due at 2026-11-19 21:34.
+2026-11-19 21:34:42 | INFO    | Loaded 10 contacts and 12 reminders.
+2026-11-19 21:34:42 | INFO    | 0 reminder(s) due at 2026-11-19 21:34.
+2026-11-19 21:34:58 | INFO    | Reached max run time - stopping scheduler.
+2026-11-19 21:34:58 | INFO    | Scheduler processed 10 reminder(s) in total.

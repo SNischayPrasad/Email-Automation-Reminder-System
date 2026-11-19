@@ -1,0 +1,15 @@
+Subject: Starting soon: {event_title} - {event_date}, {event_time}
+
+Hi {first_name},
+
+Thanks for registering! Your webinar is coming up.
+
+  Webinar   : {event_title}
+  Date      : {event_date}
+  Time      : {event_time}
+  Join link : {extra_info}
+
+Tip: test your audio and internet connection 5 minutes before we start.
+
+See you there,
+{sender_name}

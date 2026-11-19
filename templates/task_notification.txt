@@ -1,0 +1,14 @@
+Subject: Task due {event_date}: {event_title}
+
+Hi {first_name},
+
+You have a pending task assigned to you ({role}, {department}).
+
+  Task     : {event_title}
+  Deadline : {event_date}, {event_time}
+  Notes    : {extra_info}
+
+Please complete it before the deadline. Mark it done by replying "DONE".
+
+Thanks,
+{sender_name}

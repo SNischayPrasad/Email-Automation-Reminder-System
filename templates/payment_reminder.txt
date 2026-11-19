@@ -1,0 +1,16 @@
+Subject: Payment Reminder: {event_title} due on {event_date}
+
+Dear {name},
+
+We hope you are doing well. This is a gentle reminder that the following payment is due soon.
+
+  Reference : {event_title}
+  Due date  : {event_date}
+  Details   : {extra_info}
+
+If you have already made the payment, please ignore this message.
+For any questions, simply reply to this email.
+
+Thank you,
+{sender_name}
+Accounts Team
