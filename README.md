@@ -173,11 +173,29 @@ The sample data includes two deliberate failures to show the error handling.
 
 ## 🖼️ Screenshots
 
-| Dry-run | Schedule |
+**Dry-run: due reminders processed, bad records caught**
+![Dry run](images/04_dry_run_output.png)
+
+**Reminder schedule: DUE vs WAITING**
+![Schedule](images/05_schedule_output.png)
+
+**Scheduler running: each WAITING reminder is sent at its scheduled minute**
+![Scheduler](images/06_scheduler_running.png)
+
+**Generated CSV report**
+![Report](images/08_report_csv.png)
+
+**Sent / failed logs**
+![Logs](images/07_sent_failed_logs.png)
+
+| Contacts CSV | Email template |
 |---|---|
-| ![Dry run](images/04_dry_run_output.png) | ![Schedule](images/05_schedule_output.png) |
-| **Logs** | **Report** |
-| ![Logs](images/07_sent_failed_logs.png) | ![Report](images/08_report_csv.png) |
+| ![Contacts](images/02_contacts_csv.png) | ![Template](images/03_email_template.png) |
+
+<details><summary>Project folder structure</summary>
+
+![Folder](images/01_folder_structure.png)
+</details>
 
 ## 🎓 Learning Outcomes
 
